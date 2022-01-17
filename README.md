@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Tushar
+### Hi there, I'm Tushar👋 
+
 - 👀 I’m interested in Frontend Web Dev
 - 🌱 I’m currently learning backend web dev, blockchain tech
 - 💞️ I’m looking to collaborate on projects mainly focussing on the Frontend part (Reactjs, Nextjs, UI/UX Designs using HTML, CSS and vanilla js.
