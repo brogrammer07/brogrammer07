@@ -1,7 +1,5 @@
 ### Hi there, I'm Tushar👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-
 - 👀 I’m interested in Frontend Web Dev
 - 🌱 I’m currently learning backend web dev, blockchain tech
 - 💞️ I’m looking to collaborate on projects mainly focussing on the Frontend part (Reactjs, Nextjs, UI/UX Designs using HTML, CSS and vanilla js.
@@ -9,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="tushar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.instagram.com/t.u.s.h.a.r0_0/]
+[<img align="left" alt="tushar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="tushar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -33,3 +31,6 @@
 <a href="https://github.com/brogrammer07" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brogrammer07&show_icons=true&theme=radical&hide_langs_below=0" />
 </a>
+
+[linkedin]: https://www.linkedin.com/in/tushar-tomar-882708213/
+[instagram]: https://www.instagram.com/t.u.s.h.a.r0_0/
