@@ -4,6 +4,13 @@
 - 💞️ I’m looking to collaborate on projects mainly focussing on the Frontend part (Reactjs, Nextjs, UI/UX Designs using HTML, CSS and vanilla js.
 - 📫 How to reach me --> Contact me on my LinkedIn profile
 
+### Connect with me:
+
+[<img align="left" alt="tushar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="tushar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
