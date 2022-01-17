@@ -26,5 +26,5 @@
 
 ---
 <a href="https://github.com/brogrammer07" target="_blank">
-(https://github-readme-stats.vercel.app/api?username=brogrammer07&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=brogrammer07&show_icons=true&theme=radical" />
 </a>
