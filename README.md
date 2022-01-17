@@ -25,5 +25,6 @@
 <br />
 
 ---
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brogrammer07)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/brogrammer07" target="_blank">
+(https://github-readme-stats.vercel.app/api?username=brogrammer07&show_icons=true&theme=radical)
+</a>
