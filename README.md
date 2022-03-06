@@ -1,8 +1,8 @@
 ### Hi there, I'm Tushar👋 
 
-- 👀 I’m interested in Frontend Web Dev
-- 🌱 I’m currently learning backend web dev, blockchain tech
-- 💞️ I’m looking to collaborate on projects mainly focussing on the Frontend part (Reactjs, Nextjs, UI/UX Designs using HTML, CSS and vanilla js.
+- 👀 I’m Full Stack Developer
+- 🌱 I’m currently learning blockchain tech
+- 💞️ I’m looking to collaborate on full stack projects (Frontend and Backend) using MERN and tech like sanity.io, firebase, UI/UX
 - 📫 How to reach me --> Contact me on my LinkedIn profile
 
 ### Connect with me:
@@ -29,7 +29,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> <code><img height="20" 
 
 ---
 <a href="https://github.com/brogrammer07" target="_blank">
